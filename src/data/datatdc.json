@@ -1,0 +1,1287 @@
+[
+    {
+        "uuid": "ad4e2082-4470-44a6-b2f9-d6c560770a58",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/c47cb2f3-1637-4744-b337-ee70395d4f0e/Amex+Libre.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-c47cb2f3-1637-4744-b337-ee70395d4f0e-ogfTSaU",
+        "nombre": "American Express Libre",
+        "descripcion": "Disfruta de $0 cuota de manejo y úsala para tus compras diarias.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "0",
+        "textoDescCuota": "Cuota de manejo: $0",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por siempre</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Primera Tarjeta",
+                    "Entretenimiento"
+                ],
+                "bwcmnombre": [
+                    "catPrimeraTarjeta icon-cards",
+                    "catFiltroEntretenimiento icon-accepted-card"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Couta Manejo $0",
+                    "Cupo entre $400 mil y $10 millones",
+                    "Edad entre 18 y 84 años",
+                    "$1.000.000",
+                    "Pagas intereses por los días financiados"
+                ],
+                "bwcmnombre": [
+                    "catCouta0",
+                    "catCupoEntre400_10",
+                    "catEdad18_84",
+                    "catIngresosApartirdeSmmlv",
+                    "catPagasInteresesPorlosDiasFinanciados"
+                ]
+            }
+        ],
+        "comparador": [],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/libre",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0404&idapp=referidos&urlOrigin=https:%2F%2Fwww.grupobancolombia.com%2Fpersonas%2Ftarjetas-de-credito%2Famerican-express%2Flibre",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "b6c3e3d8-daa0-4250-bceb-8261d1f81536",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/5c3d8ef5-9df0-47d4-9fe2-833fd77a7eb1/Mastercard+Ideal+.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-5c3d8ef5-9df0-47d4-9fe2-833fd77a7eb1-ogdw750",
+        "nombre": "Mastercard Ideal",
+        "descripcion": "200 USD al año en seguro de protección de compras por daño accidental o hurto durante los primeros 45 días.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "15990",
+        "textoDescCuota": "Cuota de manejo: $15,990",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cuota de manejo $15,100",
+                    "Cupo entre $200 mil y $1,750,000",
+                    "Edad entre 18 y 84 años",
+                    "Ingresos entre 1 y 2 SMMLV",
+                    "$1.000.000"
+                ],
+                "bwcmnombre": [
+                    "catCuota15100",
+                    "catCupoEntre200_17",
+                    "catEdad18_84",
+                    "catIngresosSmmlv",
+                    "catIngresosApartirdeSmmlv"
+                ]
+            }
+        ],
+        "comparador": [
+            "Seguro de protección de compras"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/ideal",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0022&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/ideal",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "2593c675-8a5a-4f74-83d9-6d6e7482977b",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Especial",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/ed805926-0328-46ec-8f99-55fc27b8c259/Mastercard+Joven.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-ed805926-0328-46ec-8f99-55fc27b8c259-ogdwcaA",
+        "nombre": "Mastercard Joven",
+        "descripcion": "2x1 en Cine Colombia todos los días.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "14850",
+        "textoDescCuota": "Cuota de manejo: $14,850",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cuota de manejo $13,000",
+                    "Cupo entre $200 mil y $5 millones",
+                    "Por cada $6,600 - 6 Puntos Colombia",
+                    "Edad entre 14 y 25 años",
+                    "$1.000.000"
+                ],
+                "bwcmnombre": [
+                    "catCuota13000",
+                    "catCupoEntre200_5",
+                    "catPor6600a6",
+                    "catEdad14_25",
+                    "catIngresosApartirdeSmmlv"
+                ]
+            }
+        ],
+        "comparador": [
+            "Seguro de protección de compras",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/joven",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0021&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/joven",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "83043a09-6e3f-43d1-921b-da78d875a3fe",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/058857b9-db28-4ca2-85be-77974e2b46c8/Mastercard+Clasica+Tradicional.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-058857b9-db28-4ca2-85be-77974e2b46c8-ogclnZx",
+        "nombre": "Mastercard Clásica",
+        "descripcion": "200 USD al año en seguro de protección de compras por daño accidental o hurto durante los primeros 45 días.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "26650",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $26,650 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $400 mil y $4.9 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $6,600 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $23,200"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre400_49",
+                    "catEdad18_84",
+                    "catPor6600a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a23200"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/clasica",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0007&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/clasica",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "16ecabae-5111-4813-8e73-7ca333c94437",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/d070f2f9-a874-4e4a-abc3-3ea59e85ee3a/+Visa+clasica+tradicional.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-d070f2f9-a874-4e4a-abc3-3ea59e85ee3a-ogc10am",
+        "nombre": "Visa Clásica",
+        "descripcion": "30% de descuento en más de 200 restaurantes con Martes Visa.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "26650",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $26,650 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia",
+                    "Restaurantes"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroRestaurante icon-coffee"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Edad entre 18 y 84 años",
+                    "Cupo entre $400 mil y $4.9 millones",
+                    "Por cada $6,600 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $23,200"
+                ],
+                "bwcmnombre": [
+                    "catEdad18_84",
+                    "catCupoEntre400_49",
+                    "catPor6600a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a23200"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/clasica",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0014&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/clasica",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "236c8f07-4853-4e1a-9587-3e4ce175de41",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Gold",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/0bf628a8-1117-4845-8c5c-fc816402a5ba/Mastercard+Oro.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-0bf628a8-1117-4845-8c5c-fc816402a5ba-ogdw0n4",
+        "nombre": "Mastercard Oro",
+        "descripcion": "200 USD al año en seguro de protección de compras por daño accidental o hurto durante los primeros 45 días.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "30990",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $30,990 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $5 y $50 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $4,800 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $27,100"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre5_50",
+                    "catEdad18_84",
+                    "catPor4800a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a27100"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/oro",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0008&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/oro",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "33cf390f-4f6b-4f51-9527-2741a0d8d09a",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Especial",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/fa6dc150-6abd-4fed-84aa-4ee44ec9ac2d/Visa+Seleccion+Colombia.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-fa6dc150-6abd-4fed-84aa-4ee44ec9ac2d-ogmmRbz",
+        "nombre": "Visa Selección",
+        "descripcion": "30% de descuento en más de 200 restaurantes con Martes de Visa.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "24290",
+        "textoDescCuota": "Cuota de manejo: $24,290 mensuales",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia",
+                    "Restaurantes"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroRestaurante icon-coffee"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $400 mil y $10 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $6,600 - 6 Puntos Colombia - triple",
+                    "$1.000.000",
+                    "1 año a $0* Despues a $21,000"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre400_10",
+                    "catEdad18_84",
+                    "catPor6600a6t",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuoata6a021"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/seleccion-colombia",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0017&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/seleccion-colombia",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "911e8c40-f912-40d3-934c-5e9c04be81b8",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Gold",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/30ff21ac-39c5-46fe-89a3-227e5fea4319/Visa+Oro.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-30ff21ac-39c5-46fe-89a3-227e5fea4319-ogc1O-1",
+        "nombre": "Visa Oro",
+        "descripcion": "30% de descuento en más de 200 restaurantes con Martes Visa.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "30990",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $30,990 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia",
+                    "Restaurantes"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroRestaurante icon-coffee"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Edad entre 18 y 84 años",
+                    "Cupo entre $5 y $50 millones",
+                    "Por cada $4,800 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $27,100"
+                ],
+                "bwcmnombre": [
+                    "catEdad18_84",
+                    "catCupoEntre5_50",
+                    "catPor4800a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a27100"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/oro",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0015&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/oro",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "9b2890d4-4a37-4783-b9ba-081be5ac2851",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Platinum",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/70e6b24d-f60a-4b7c-ac99-30a6f1348ee0/Mastercard+Platinum.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-70e6b24d-f60a-4b7c-ac99-30a6f1348ee0-ogdwhOk",
+        "nombre": "Mastercard Platinum",
+        "descripcion": "Seguro de alquiler de autos hasta USD 75.000.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "35190",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $35,190 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size:14px\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $10 y $200 millones",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Edad entre 18 y 84 años",
+                    "Cuota de manejo 6 meses a $0* a $30,700"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre10_200",
+                    "catPor3300a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catEdad18_84",
+                    "catCuota6a30700"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Acceso a salas VIP"
+        ],
+        "ocultarComparador": true,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/platinum",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0009&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/platinum",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "347cbafc-dc99-44c4-ad6e-efc8197a61a5",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/94f49ff1-fd78-41fe-9af5-92958c057d94/AMEX+SkyBlue.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-94f49ff1-fd78-41fe-9af5-92958c057d94-ogdwJyA",
+        "nombre": "American Express Blue",
+        "descripcion": "2x1 en Cinemark 2D todos los días.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "26650",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $26,650 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $700 mil y $4,9 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $6,600 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $24,700"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre700_49",
+                    "catEdad18_84",
+                    "catPor6600a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a24700"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/blue",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0001&idapp=referidos&urlOrigin=https://www.bancolombia.com/personas/tarjetas-de-credito/american-express/blue",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "20742341-0229-431e-a6e6-9c2c884b693f",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Especial",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/cd73e735-42eb-467d-a470-2201a8d1262d/AMEX+Green.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-cd73e735-42eb-467d-a470-2201a8d1262d-ogdwSrL",
+        "nombre": "American Express Green",
+        "descripcion": "Recibe 10.720 Puntos Colombia por facturación mínima de $2.000.000 durante los 6 primeros meses.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "31990",
+        "textoDescCuota": "Cuota de manejo: $31,990 mensual Aplica beneficio de exoneración del 50% de la cuota de manejo: $15,995 mensual.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Descuento del 50%!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $15.995</strong></p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $3 y $15 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $4,800 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo $30,200"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre3_15",
+                    "catEdad18_84",
+                    "catPor4800a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota30200"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/green",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0002&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/american-express/green",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "e2cb4faa-d270-4e72-8a2d-0c6f11e0bbf0",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Gold",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/a93e9306-efcf-4a0c-b5b3-8342d4c1bedc/AMEX+Gold.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-a93e9306-efcf-4a0c-b5b3-8342d4c1bedc-ogdwNtZ",
+        "nombre": "American Express Gold",
+        "descripcion": "Espera cómodamente los vuelos en la sala VIP Amex del aeropuerto El Dorado de Bogotá. 2 Ingresos al año gratis.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "35190",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0  si solicitas la tarjeta por internet. Después, $35,190 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Edad entre 18 y 84 años",
+                    "Cupo entre $5 y $50 millones",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 6 meses a $0* a $30,700"
+                ],
+                "bwcmnombre": [
+                    "catEdad18_84",
+                    "catCupoEntre5_50",
+                    "catPor3300a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a30700"
+                ]
+            }
+        ],
+        "comparador": [
+            "Acceso a salas VIP",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/gold",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0003&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/american-express/gold",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "5a0b2b5e-3424-4ca4-a41a-c49a4b86ddb1",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Platinum",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/d8d31290-5f85-4b0e-adcc-6a1cee57802c/Visa+Lifemile+Personas.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-d8d31290-5f85-4b0e-adcc-6a1cee57802c-ogc1u5L",
+        "nombre": "Visa Avianca Lifemiles",
+        "descripcion": "Bono de bienvenida de 7.500 LifeMiles por facturar $7.500.000 durante los primeros 6 meses.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "36690",
+        "textoDescCuota": "Cuota de manejo:  $36,690",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Restaurantes",
+                    "Compras",
+                    "Entretenimiento",
+                    "Millas"
+                ],
+                "bwcmnombre": [
+                    "catFiltroRestaurante icon-coffee",
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroMillas icon-tag-price"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Acumula millas - Del programa Lifemiles",
+                    "Cupo entre $5 y $50 millones",
+                    "Edad entre 18 y 84 años",
+                    "Cuota de manejo $31,800",
+                    "$1.000.000"
+                ],
+                "bwcmnombre": [
+                    "catMillasLife",
+                    "catCupoEntre5_50",
+                    "catEdad18_84",
+                    "catCuota31800",
+                    "catIngresosApartirdeSmmlv"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/lifemiles",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0019&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/lifemiles",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "b8b6c734-a569-429d-a538-b0be4c1939d6",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Afluent",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/907600f1-ae17-431b-ae07-a6d6095b98cf/Mastercard+Credito+Black.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-907600f1-ae17-431b-ae07-a6d6095b98cf-ogcl0Jy",
+        "nombre": "Mastercard Black",
+        "descripcion": "Acceso a salas VIP en los principales aeropuertos del mundo con MasterCard Airport Experiences",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "45690",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $45,690 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $10 y $300 millones",
+                    "Edad entre 18 y 84 años",
+                    "$10.000.000",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "Cuota de manejo 6 meses a $0* a $40,000"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre10_300",
+                    "catEdad18_84",
+                    "catIngresos10Millones",
+                    "catPor3300a6",
+                    "catCuota6a40000"
+                ]
+            }
+        ],
+        "comparador": [
+            "Acceso a salas VIP",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/black",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0010&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/black",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "ea437dad-2b57-4e49-b8a1-a844248f6e84",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Platinum",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/fc984617-f00f-42b8-a936-9949a72efd2d/Visa+Platinum+Conavi.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-fc984617-f00f-42b8-a936-9949a72efd2d-ogck8SG",
+        "nombre": "Visa Platinum",
+        "descripcion": "30% de descuento en más de 200 restaurantes con Martes Visa.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "35190",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $35,190 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia",
+                    "Restaurantes"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroRestaurante icon-coffee"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $10 y $200 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "Cuota de manejo 6 meses a $0* a $30,700",
+                    "$1.000.000"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre10_200",
+                    "catEdad18_84",
+                    "catPor3300a6",
+                    "catCuota6a30700",
+                    "catIngresosApartirdeSmmlv"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/platinum",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0016&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/platinum",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "8abe4b1f-1c5c-43f9-8923-bcb840036491",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/65f615ea-264f-4e93-8fb7-b131478d3330/Visa+Tarjeta+Virtual.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-65f615ea-264f-4e93-8fb7-b131478d3330-ogdvsqa",
+        "nombre": "Mastercard E-card",
+        "descripcion": "Saca esta Tarjeta Virtual que viene con el 10% del cupo adicional de tu Tarjeta de Crédito actual. Es muy fácil, hazlo en minutos.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "$0",
+        "textoDescCuota": "Cuota de manejo: $0 mensuales",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "<p dir=\"ltr\">\n<audio class=\"audio-for-speech\" src=\"\">&nbsp;</audio>\n</p>\n\n<div class=\"translate-tooltip-mtz translator-hidden\" dir=\"ltr\">\n<div class=\"header\">\n<div class=\"header-controls\">&nbsp;</div>\n</div>\n\n<div class=\"translated-text\">\n<div class=\"words\">&nbsp;</div>\n\n<div class=\"sentences\">&nbsp;</div>\n</div>\n</div>\n\n<p dir=\"ltr\" style=\"font-size:14px\"><strong>Cuota $0</strong> por siempre</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Sin cuota de manejo",
+                    "Compras",
+                    "Entretenimiento",
+                    "Puntos Colombia"
+                ],
+                "bwcmnombre": [
+                    "catSinCuotaManejo icon-cash-payment",
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroPuntosC icon-puntos-colombia"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $70 mil y $10 millones",
+                    "Por cada $6,600 - 6 Puntos Colombia",
+                    "Edad entre 18 y 84 años",
+                    "Cuota de manejo $5300 mensuales a $ 0 de cuota"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre70_10",
+                    "catPor6600a6",
+                    "catEdad18_84",
+                    "catCuota6a5300a0"
+                ]
+            }
+        ],
+        "comparador": [
+            "Seguro de protección de compras"
+        ],
+        "ocultarComparador": true,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/e-card",
+        "urlTarjetaSolitud": "",
+        "urlSvp": "link_prod_aec"
+    },
+    {
+        "uuid": "188e8293-de60-4cf0-9ea8-8fa974694cf2",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Platinum",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/59b258ad-abfe-4934-8670-8c96e2149cd4/AMEX+Platinum.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-59b258ad-abfe-4934-8670-8c96e2149cd4-ogfTXH3",
+        "nombre": "American Express Platinum",
+        "descripcion": "Acceso a salas VIP en los principales aeropuertos del mundo con Priority Pass.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "46490",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $46,490 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size:14px\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": false,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia",
+                    "Vehiculo"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroVehiculo icon-car"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $10 y $300 millones",
+                    "Edad entre 18 y 84 años",
+                    "$10.000.000",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "Cuota de manejo 6 meses a $0* a $40,700"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre10_300",
+                    "catEdad18_84",
+                    "catIngresos10Millones",
+                    "catPor3300a6",
+                    "catCuota6a40700"
+                ]
+            }
+        ],
+        "comparador": [
+            "Acceso a salas VIP",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/platinum",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0004&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/american-express/platinum",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "8e7db8e6-202a-4b91-9757-1d355bc5c65f",
+        "franquicia": "American Express",
+        "categoriaGeneral": "Afluent",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/59b258ad-abfe-4934-8670-8c96e2149cd4/AMEX+Platinum.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-59b258ad-abfe-4934-8670-8c96e2149cd4-ogfTXH3",
+        "nombre": "American Express Platinum Metal",
+        "descripcion": "Es una tarjeta de crédito metálica de acero inoxidable reciclado y única. Disfruta cada año del beneficio de viajes 2X1.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "109900",
+        "textoDescCuota": "Cuota de manejo: $109.900",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": true,
+        "solictable": false,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia",
+                    "Vehiculo"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroVehiculo icon-car"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "Por cada $3,300 - 12 Puntos Colombia",
+                    "Cupo entre $10 y $500 millones",
+                    "Cuota de manejo $109.900",
+                    "$10.000.000"
+                ],
+                "bwcmnombre": [
+                    "catPor3300",
+                    "catPor330012p",
+                    "catCupoEntre10_500_1",
+                    "catCuota109900",
+                    "catIngresos10Millones"
+                ]
+            }
+        ],
+        "comparador": [
+            "Acceso a salas VIP",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/american-express/platinum-metal",
+        "urlTarjetaSolitud": "",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "086d7374-0fa4-4570-8ee1-967c62bbd8ed",
+        "franquicia": "Visa",
+        "categoriaGeneral": "Afluent",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/af9fd6c5-5d42-406d-ba84-628c51128b13/Infinite_Card.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-af9fd6c5-5d42-406d-ba84-628c51128b13-nDjM6mS",
+        "nombre": "Visa Infinite",
+        "descripcion": "Acceso a salas VIP en los principales aeropuertos del mundo con Priority Pass.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "47290",
+        "textoDescCuota": "Cuota de manejo: 6 meses a $0 si solicitas la tarjeta por internet. Después, $47,290 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "¡Exclusivo internet!",
+        "textoPromoCuota": "<p dir=\"ltr\" style=\"font-size: 14px;\"><strong>Cuota $0</strong> por 6 meses</p>",
+        "destacada": true,
+        "solictable": true,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Compras",
+                    "Entretenimiento",
+                    "Viajes",
+                    "Puntos Colombia",
+                    "Restaurantes"
+                ],
+                "bwcmnombre": [
+                    "catFiltroCompras icon-shopping",
+                    "catFiltroEntretenimiento icon-accepted-card",
+                    "catFiltroViajes icon-flight",
+                    "catFiltroPuntosC icon-puntos-colombia",
+                    "catFiltroRestaurante icon-coffee"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $15 y $300 millones",
+                    "Edad entre 18 y 84 años",
+                    "$10.000.000",
+                    "Por cada $3,300 - 6 Puntos Colombia",
+                    "Cuota de manejo 6 meses a $0* a $41,200"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre15_300",
+                    "catEdad18_84",
+                    "catIngresos10Millones",
+                    "catPor3300a6",
+                    "catCuota6a41200"
+                ]
+            }
+        ],
+        "comparador": [
+            "Acceso a salas VIP",
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": false,
+        "urlTarjeta": "/personas/tarjetas-de-credito/visa/infinite",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0018&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/visa/infinite",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "bbeb4e98-f9ac-491d-8639-295363aad59e",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/251e2dde-2025-47bb-95df-ff77c2e41eef/Mastercard-Sufi_Optimizada.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-251e2dde-2025-47bb-95df-ff77c2e41eef-nP3wU.k",
+        "nombre": "Mastercard Sufi",
+        "descripcion": "No es posible solicitar esta tarjeta. Este contenido es informativo. Consulta otras tarjetas que tenemos disponibles.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "28690",
+        "textoDescCuota": "Cuota de manejo: 50% de exoneración  Si tienes crédito de vehículo Sufi. De no ser así, $28,690 mensuales.",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": false,
+        "solictable": false,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [
+                    "Sin cuota de manejo"
+                ],
+                "bwcmnombre": [
+                    "catSinCuotaManejo icon-cash-payment"
+                ]
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $400 mil y $50 millones",
+                    "Edad entre 18 y 84 años",
+                    "Por cada $4,800 - 6 Puntos Colombia",
+                    "$1.000.000",
+                    "Cuota de manejo 50% de exoneración"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre400_50",
+                    "catEdad18_84",
+                    "catPor4800a6",
+                    "catIngresosApartirdeSmmlv",
+                    "catCuota6a50Sufi"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": true,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/sufi",
+        "urlTarjetaSolitud": "https://accesodigital.grupobancolombia.com/solicitud-de-producto/#/abreCuenta?code=RTC0011&idapp=referidos&urlOrigin=https://www.grupobancolombia.com/personas/tarjetas-de-credito/mastercard/sufi",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "70da50c7-ca14-4047-8790-6e5b00cf8c9b",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Gold",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/b406db20-279b-458e-8f0d-970b1e39d17c/Mastercard-Esso+mobil+oro_Optimizada.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-b406db20-279b-458e-8f0d-970b1e39d17c-nP3vZPR",
+        "nombre": "Mastercard Esso Mobil Oro",
+        "descripcion": "Esta tarjeta ya no se encuentra disponible y dejará de funcionar en 2020. Si la tienes te invitamos a cambiarla.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "32190",
+        "textoDescCuota": "Cuota de manejo: $32,190",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": false,
+        "solictable": false,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [],
+                "bwcmnombre": []
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cuota de manejo $28,300",
+                    "Cupo entre $5 y $20 millones",
+                    "Por cada $4,800 - 6 Puntos Colombia b"
+                ],
+                "bwcmnombre": [
+                    "catCuota28300",
+                    "catCupoEntre5_20",
+                    "catPor4800a6b"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencia al hogar (nacional)",
+            "Asistencia al vehículo (nacional)",
+            "Asistencias en viajes",
+            "Seguro de auto rentado",
+            "Seguro de protección de compras",
+            "Seguro de protección de precios"
+        ],
+        "ocultarComparador": true,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/essooro",
+        "urlTarjetaSolitud": "",
+        "urlSvp": ""
+    },
+    {
+        "uuid": "a9194ba9-f2ef-454b-82d3-628d83c64ebb",
+        "franquicia": "Mastercard",
+        "categoriaGeneral": "Clásica",
+        "imagenTarjeta": "/wcm/connect/www.bancolombia.com-26918/1c9deb25-105d-4321-a38d-58cd8733d3ec/Mastercard-Esso+mobil+clasica_Optimizada.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-1c9deb25-105d-4321-a38d-58cd8733d3ec-nP3vDIx",
+        "nombre": "Mastercard Esso Mobil",
+        "descripcion": "Esta tarjeta ya no se encuentra disponible y dejará de funcionar en 2020. Si la tienes te invitamos a cambiarla.",
+        "textoCuotaInc": "Cuota de manejo:",
+        "textoCuota": "28290",
+        "textoDescCuota": "Cuota de manejo:  $28,290",
+        "textoCuotaEnd": "mensuales",
+        "textoAlertaPromo": "",
+        "textoPromoCuota": "",
+        "destacada": false,
+        "solictable": false,
+        "listaBeneficios": [
+            {
+                "bwcmtexto": [],
+                "bwcmnombre": []
+            }
+        ],
+        "listaCara": [
+            {
+                "bwcmtexto": [
+                    "Cupo entre $400 mil y $4.9 millones",
+                    "Por cada $6,600 - 6 Puntos Colombia - triple",
+                    "Cuota de manejo $24,700"
+                ],
+                "bwcmnombre": [
+                    "catCupoEntre400_49",
+                    "catPor6600a6t",
+                    "catCuota24700"
+                ]
+            }
+        ],
+        "comparador": [
+            "Asistencias en viajes",
+            "Seguro de protección de compras"
+        ],
+        "ocultarComparador": true,
+        "urlTarjeta": "/personas/tarjetas-de-credito/mastercard/EssoClasica",
+        "urlTarjetaSolitud": "",
+        "urlSvp": ""
+    }
+]
