@@ -40,8 +40,9 @@ const resolvers = {
     books: () => books,
     listaTdc: () => dataTdc,
     countTdc: () => dataTdc.length,
-    findByfranquicia: (root, args) => {
-      const { franquicia } = args
+    findByfranquicia: (root, args) => {      
+      let { franquicia } = args      
+      if(franquicia === "AmericanExpress"){ franquicia = "American Express"}
       let result = dataTdc.filter(el => el.franquicia === franquicia)
       return result
     },

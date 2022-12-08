@@ -5,7 +5,7 @@ type Query {
 type Query {
   countTdc: Int
   listaTdc: [TDC]
-  findByfranquicia(franquicia: String!): [TDC]
+  findByfranquicia(franquicia: Franquicia): [TDC]
 }
 
 type Book {
@@ -24,7 +24,11 @@ type Mutation {
   addBook(title: String, author: String): Book
 }
 
-
+enum Franquicia {
+    AmericanExpress
+    Mastercard
+    Visa
+}
 
 type TDC {
     uuid: String
