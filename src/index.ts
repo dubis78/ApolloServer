@@ -1,6 +1,7 @@
 import { ApolloServer } from '@apollo/server';
 import { startStandaloneServer } from '@apollo/server/standalone';
 import { readFileSync } from 'fs';
+import { GraphQLError } from 'graphql'
 
 // A schema is a collection of type definitions (hence "typeDefs")
 // that together define the "shape" of queries that are executed against
@@ -43,8 +44,22 @@ const resolvers = {
       const { franquicia } = args
       let result = dataTdc.filter(el => el.franquicia === franquicia)
       return result
-    }
+    },
   },
+  Mutation: {
+    addBook: (_, args) => {
+      if (books.find(b => b.title === args.title)) {
+        throw new GraphQLError('Libro Duplicado como la ves.', {
+          extensions: {
+            "code": "Duplicidad de Titulo"
+          }
+        })
+      }
+      const newBook = { ...args }
+      books.push(newBook)
+      return newBook
+    }
+  }
 };
 
 // The ApolloServer constructor requires two parameters: your schema

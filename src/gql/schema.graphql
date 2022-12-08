@@ -21,8 +21,10 @@ type AddBookMutationResponse {
 }
 
 type Mutation {
-  addBook(title: String, author: String): AddBookMutationResponse
+  addBook(title: String, author: String): Book
 }
+
+
 
 type TDC {
     uuid: String
