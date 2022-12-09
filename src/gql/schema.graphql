@@ -52,3 +52,19 @@ type Lista {
     bwcmtexto: [String]
     bwcmnombre: [String]
 }
+
+type Query {  
+  ofertas: Ofertas
+}
+
+type Query {
+  countOfertas: Int
+  listaOfertas: [Ofertas]
+  findByTitulo(titulo: String!): [Ofertas]
+}
+
+type Ofertas {
+    titulo: String!
+    namepath: String!
+    code: String
+}

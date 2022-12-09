@@ -1,0 +1,77 @@
+[
+{
+"titulo": "Belleza",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catBelleza",
+"code": "1"
+},
+{
+"titulo": "Comida",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catComidaRestaurantes",
+"code": "5"
+},
+{
+"titulo": "Deporte y hobbies",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catDeporte",
+"code": ""
+},
+{
+"titulo": "Educación",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catEducacion",
+"code": "14"
+},
+{
+"titulo": "Entretenimiento",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catEntretenimiento",
+"code": "18"
+},
+{
+"titulo": "Hogar",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catHogar",
+"code": "32"
+},
+{
+"titulo": "Mercado",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catMercado",
+"code": "52"
+},
+{
+"titulo": "Otro",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catOtro",
+"code": "55"
+},
+{
+"titulo": "Salud",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catSaludBienestar",
+"code": "76"
+},
+{
+"titulo": "Seguros e impuestos",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catSegurosImpuestos",
+"code": "84"
+},
+{
+"titulo": "Servicios varios",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catServiciosVarios",
+"code": "90"
+},
+{
+"titulo": "Tecnología",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catTecnologia",
+"code": "102"
+},
+{
+"titulo": "Vehículo",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catTransporte",
+"code": "108"
+},
+{
+"titulo": "Vestuario y accesorios",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catVestuarioModa",
+"code": "123"
+},
+{
+"titulo": "Viajes",
+"namepath": "/Ofertas/taxoOfertas/catCategoriasOfertas/catViajes",
+"code": "140"
+}
+]

@@ -7,6 +7,8 @@ import { readFileSync } from 'fs';
 // your data.
 const dataTdc = JSON.parse(readFileSync('./src/data/datatdc.json', { encoding: 'utf-8' }))
 const typeDefs = await readFileSync('./src/gql/schema.graphql', { encoding: 'utf-8' })
+const dataOfertas = JSON.parse(readFileSync('./src/data/dataofertas.json', { encoding: 'utf-8' }))
+
 /*
 `#graphql
   type Book {
@@ -42,6 +44,14 @@ const resolvers = {
     findByfranquicia: (root, args) => {
       const { franquicia } = args
       let result = dataTdc.filter(el => el.franquicia === franquicia)
+      return result
+    },
+    oferta: () => dataOfertas[0],
+    listaOfertas: () => dataOfertas,
+    countOfertas: () => dataOfertas.length,
+    findByTitulo: (root, args) => {
+      const { titulo } = args
+      let result = dataTdc.filter(el => el.titulo === titulo)
       return result
     }
   },
