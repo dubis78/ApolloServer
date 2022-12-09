@@ -53,10 +53,6 @@ type Lista {
     bwcmnombre: [String]
 }
 
-type Query {  
-  ofertas: [Ofertas]
-}
-
 type Query {
   countOfertas: Int
   listaOfertas: [Ofertas]

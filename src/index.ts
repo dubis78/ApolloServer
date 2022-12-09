@@ -57,7 +57,7 @@ const resolvers = {
       const { titulo } = args;
       let result = dataOfertas.filter((el) => el.titulo === titulo);
       return result;
-    }
+    },
   },
 };
 
