@@ -54,7 +54,7 @@ type Lista {
 }
 
 type Query {  
-  ofertas: Ofertas
+  ofertas: [Ofertas]
 }
 
 type Query {
